@@ -1,1 +1,1 @@
-backup a private or public git repo on google drive using git
+backup a private or public git repo on Google Drive using git on Google Colab
